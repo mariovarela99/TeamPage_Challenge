@@ -16,7 +16,6 @@ header.main-header {
   align-items: flex-start;
   justify-content: space-around;
   padding-top: 40px;
-  border-bottom: 35px;
 
   h2 {
     font-style: normal;
@@ -55,6 +54,7 @@ header.main-header {
 main.main-main {
   width: 100%;
   height: auto;
+  margin-top: 50px;
 
   section.main-section {
     width: 100%;

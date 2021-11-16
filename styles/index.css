@@ -19,7 +19,6 @@ header.main-header {
   -ms-flex-pack: distribute;
       justify-content: space-around;
   padding-top: 40px;
-  border-bottom: 35px;
 }
 
 header.main-header h2 {
@@ -67,6 +66,7 @@ header.main-header div p {
 main.main-main {
   width: 100%;
   height: auto;
+  margin-top: 50px;
 }
 
 main.main-main section.main-section {
