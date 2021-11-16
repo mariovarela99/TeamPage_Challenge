@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://mariovarela99.github.io/TeamPage_Challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://mariovarela99.github.io/TeamPage_Challenge/">
       Solution
     </a>
     <span> | </span>
@@ -38,6 +38,6 @@
 
 ## Contact
 
-- Website [your-website.com](https://github.com/mariovarela/me.io)
-- GitHub [@your-username](https://mariovarela99)
-- Twitter [@your-twitter](https://MrioVarela4)
+- Website [github.com/mariovarela99/me.io](https://github.com/mariovarela/me.io)
+- GitHub [@mariovarela99](https://mariovarela99)
+- Twitter [@MrioVarela4](https://MrioVarela4)
